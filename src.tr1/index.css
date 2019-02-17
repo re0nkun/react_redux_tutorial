@@ -47,11 +47,3 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
-
-.current{
-  font-weight: bold;
-}
-
-.winner{
-  background-color: #d4e7ff;
-}
